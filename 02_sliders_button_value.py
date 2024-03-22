@@ -8,7 +8,7 @@ b = 5
 c = a + b
 
 def compute_addition(state, var, val):
-    state.c = state.a + state.b
+        state.c = state.a + state.b
 
 
 page = ChalkitPage("02_sliders_button_value.xprjson")
