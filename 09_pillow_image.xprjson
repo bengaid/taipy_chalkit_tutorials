@@ -187,7 +187,7 @@
 		"annotationImageConnectedA": {
 			"base64Image": {
 				"name": "base64Image",
-				"dataNode": "image",
+				"dataNode": "base64_string",
 				"dataFields": []
 			}
 		},
